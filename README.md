@@ -8,6 +8,6 @@
 
 ## ordered List
 
-1 Apple
-2 Mango
-3 Banana
+1. Apple
+2. Mango
+3. Banana
